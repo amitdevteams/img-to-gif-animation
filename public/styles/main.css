@@ -1,0 +1,29 @@
+body
+{
+	background:#1B242F;
+	color:white;
+}
+
+.dz-message
+{
+	color:black;
+}
+
+.container .row:first-child{
+	margin-top:40px;
+}
+
+#generate-button
+{
+	margin-top:20px;
+}
+
+#result{
+	margin-top:25px;
+}
+
+.result-image
+{
+	margin-top:15px;
+}
+
